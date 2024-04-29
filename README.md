@@ -1,1 +1,1 @@
-# Loan-approval-checker-data-analysis
+Retail price predictor
